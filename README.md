@@ -1,4 +1,4 @@
-# Dillinger
+# Pusher Dynamic Field
 
 Laravel Nova Pusher Dynamic Field
 
